@@ -1,7 +1,7 @@
 # Flow-Based Programming
 
 <p align="center" width="100%">
-   <img src="https://raw.githubusercontent.com/flow-based-programming/.github/refs/heads/main/assets/logo.svg" alt="flow-based-programming" width="80">
+   <img src="https://raw.githubusercontent.com/flow-based-programming/.github/refs/heads/main/assets/outline-logo.svg" alt="flow-based-programming" width="80">
 </p>
 
 ## Specification
